@@ -13,3 +13,6 @@ those kind of images.
 
 In this work we have detected text by drawing a rectangular
 bounding box around it.
+
+After we obtain the text area in the image we can recognise 
+text written with the help of tesseract library.
